@@ -27,13 +27,27 @@
     position: relative;
     left: 60px;
     bottom: 180px;
-    color: dimgray;
+    color: darkslategrey
 }
  h2{
         width: 50px;
         margin: auto;
         top: 20px;
         position: relative;
+    }
+    .text3 {
+        
+        color: rgb(131, 125, 125);
+        position: relative;
+        left: 500px;
+        
+    }
+
+    .YH {
+        position: relative;
+        left: 70px;
+        bottom: 150px;
+
     }
 
 
