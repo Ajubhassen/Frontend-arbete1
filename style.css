@@ -4,7 +4,8 @@
 
     .first {
         color: brown; 
-        background-image: url(./Bilder/header.png.png);
+        background-image: url("./Bilder/header.png.png");
+        background-color: darkblue;
         background-repeat: no-repeat;
         background-position-x: center;
         height: 500px;
@@ -15,9 +16,8 @@
         color: cadetblue;
 
 
-    }
-
-    h2{
+}
+ h2{
         width: 50px;
         margin: auto;
     }
