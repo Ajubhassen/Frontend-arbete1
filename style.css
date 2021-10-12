@@ -17,37 +17,64 @@
     .second {
         position: relative;
         left: 250px;
-        bottom: 185px;
+        bottom: 190px;
         font-family: Arial, Helvetica, sans-serif;
         color: darkslategrey;
         font: bolder;
-}
-.text2 {
-
+    }
+    .text2 {
+    
     position: relative;
-    left: 60px;
-    bottom: 180px;
-    color: darkslategrey
-}
- h2{
+    left: 70px;
+    bottom: 190px;
+    color: darkslategrey;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 14px;
+    text-overflow: initial;
+    }
+
+    h2{
         width: 50px;
         margin: auto;
         top: 20px;
         position: relative;
     }
+
     .text3 {
+        background-image: url("../Bilder/phone_no1-03.png");
+        background-repeat: no-repeat;
+        background-position-x:  right;
+        background-position: 210px;
+        margin-top: -150px;
         
-        color: rgb(131, 125, 125);
+        text-size-adjust: 20px;
+        font-family: Calibri light;
+        font-size: 14px;
+        color: grey;
+        padding: 70px;
+        padding-top: 150px;
         position: relative;
-        left: 500px;
+        bottom: 140px;
         
-        
+      
     }
 
     .YH {
+        
         position: relative;
         left: 70px;
-        bottom: 150px;
+        bottom: 120px;
+        font-family: Arial, Helvetica, sans-serif;
+
+    }
+
+    .video {
+
+    
+    position: relative;
+    bottom: 200px;
+    
+
 
     }
 
