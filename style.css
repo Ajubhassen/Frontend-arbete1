@@ -80,6 +80,7 @@
         padding: 110px;
         font-size: 12px;
         position: relative;
+        bottom: 40px;
         text-align: top;
         padding-left: 290px;
         color: grey;
@@ -89,33 +90,74 @@
 
         .text5 {
             padding-left: 50px;
-            font-family: sans-serif;
+            font-family: calibri light;
             color: grey;
-            font-size: 14px;
+            font-size: 15px;
             position: relative;
-            bottom: 70px;
-
-
+            bottom: 130px;
         }
 
-        .text6 {
+        .tipweek{
+            
+            font-size: 14px;
+            font-family: sans-serif;
+            position: relative;
+            bottom: 470px;
+            left: 170px;
+            color: rgb(56, 52, 52);
+        }
+
+        .tip {
             background-image: url(./Bilder/Q1_newsletter-02.png);
             height: 330px;
             color: #333;
-    
-    background-repeat: no-repeat;
-    background-size: 100% 100%;
-    background-position: bottom;
-
-            
-            
-            
+            background-repeat: no-repeat;
+            background-size: 100% 100%;
+            background-position: bottom;
+            font-size: 25px;
+            position: relative;
+            bottom: 160px;
+           
 
         }
 
+        .text6{
+            position: relative;
+            bottom: 310px;
+            left: 20px;
+            font-family: sans-serif;
+            font-size: 13px;
+            text-align: center;
+            
+
+
+
+        }
+
+        .live {
+            color: rgb(243, 242, 242);
+            font-family: sans-serif;
+            position: relative;
+            bottom: 510px;
+            left: 60px;
+            
+            
+        }
+
         .text7 {
+            position: relative;
+            bottom: 310px;
+            font-family: sans-serif;
+            font-size: 12px;
+            column-count: 2;
+            column-gap: 60px;
+            column-width: 170px;
+            padding: 60px;
             background-color: rgb(54, 52, 52);
             color: white
+            
+            
+            
         }
 
 
