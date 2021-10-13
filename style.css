@@ -67,12 +67,8 @@
 
     }
 
-    .video {
-
-    
-    position: relative;
-    bottom: 200px;
-    
+    .v {
+    margin-top: -200px;
 
 
     }
@@ -104,11 +100,15 @@
 
         .text6 {
             background-image: url(./Bilder/Q1_newsletter-02.png);
-            background-repeat: no-repeat;
-            background-size:cover;
-            width: 100%;
-            padding: 50px;
-            margin-right: 500px;
+            height: 330px;
+            color: #333;
+    
+    background-repeat: no-repeat;
+    background-size: 100% 100%;
+    background-position: bottom;
+
+            
+            
             
 
         }
