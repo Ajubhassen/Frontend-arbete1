@@ -10,8 +10,8 @@
         height: 500px;
         width: 100%;
         background-size: 110%;
-        font-size: 12px;
-        font-family: Arial;
+        font-size: 10px;
+        font-family: sans-serif;
         font-weight: bold;
     }
     .second {
@@ -30,7 +30,6 @@
     color: darkslategrey;
     font-family: Arial, Helvetica, sans-serif;
     font-size: 14px;
-    text-overflow: initial;
     }
 
     h2{
@@ -46,10 +45,9 @@
         background-position-x:  right;
         background-position: 210px;
         margin-top: -150px;
-        
         text-size-adjust: 20px;
         font-family: Calibri light;
-        font-size: 14px;
+        font-size: 13px;
         color: grey;
         padding: 70px;
         padding-top: 150px;
@@ -65,6 +63,7 @@
         left: 70px;
         bottom: 120px;
         font-family: Arial, Helvetica, sans-serif;
+        color: rgb(90, 84, 84);
 
     }
 
@@ -77,6 +76,49 @@
 
 
     }
+
+    .text4 {
+        background-image: url(./Bilder/phone_no2-03.png);
+        background-repeat: no-repeat;
+        background-position-x: left;
+        padding: 110px;
+        font-size: 12px;
+        position: relative;
+        text-align: top;
+        padding-left: 290px;
+        color: grey;
+
+
+        }
+
+        .text5 {
+            padding-left: 50px;
+            font-family: sans-serif;
+            color: grey;
+            font-size: 14px;
+            position: relative;
+            bottom: 70px;
+
+
+        }
+
+        .text6 {
+            background-image: url(./Bilder/Q1_newsletter-02.png);
+            background-repeat: no-repeat;
+            background-size:cover;
+            width: 100%;
+            padding: 50px;
+            margin-right: 500px;
+            
+
+        }
+
+        .text7 {
+            background-color: rgb(54, 52, 52);
+            color: white
+        }
+
+
 
 
 
